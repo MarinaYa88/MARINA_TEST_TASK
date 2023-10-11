@@ -1,4 +1,4 @@
-#NeuroStartUp СТАРТАП
+#NeuroStartUp
 
 ![логотип](./logo.png) 
 
